@@ -63,6 +63,3 @@
 [submodule "Tweaks/YTSpeed"]
 	path = Tweaks/YTSpeed
 	url = https://github.com/therealFoxster/YTSpeed.git
-[submodule "Tweaks/YouTube-X"]
-	path = Tweaks/YouTube-X
-	url = https://github.com/PoomSmart/YouTube-X/
